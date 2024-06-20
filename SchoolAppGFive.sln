@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolAppGFive.Web", "SchoolAppGFive.Web\SchoolAppGFive.Web.csproj", "{A73D5D03-D270-4A16-8909-CBF587C2215E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolAppGFive.DAL", "SchoolAppGFive.DAL\SchoolAppGFive.DAL.csproj", "{6B0D4F9C-289F-474C-AE56-3DE6619ADB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73D5D03-D270-4A16-8909-CBF587C2215E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73D5D03-D270-4A16-8909-CBF587C2215E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73D5D03-D270-4A16-8909-CBF587C2215E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73D5D03-D270-4A16-8909-CBF587C2215E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0D4F9C-289F-474C-AE56-3DE6619ADB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0D4F9C-289F-474C-AE56-3DE6619ADB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0D4F9C-289F-474C-AE56-3DE6619ADB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0D4F9C-289F-474C-AE56-3DE6619ADB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC652DBD-26C9-4BB2-8EDE-A65403095C25}
+	EndGlobalSection
+EndGlobal
